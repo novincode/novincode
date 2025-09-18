@@ -19,10 +19,6 @@ I build clean, performant, and edge-friendly web applications and tools. My work
   Rich text editor framework built on Facebook's Lexical. A modular, extensible editor designed for performance and real-world production use.  
   🔗 https://lexkit.dev · https://github.com/novincode/lexkit
 
-- **Figma Flow Capture GUI**  
-  Desktop tool (TypeScript + Rust) for capturing and automating Figma snapshots into developer workflows.  
-  🔗 https://github.com/novincode/figma-flow-capture-gui
-
 - **Flowshot**  
   CLI and library to generate slides from Markdown and automate presentations.  
   🔗 https://github.com/novincode/flowshot
