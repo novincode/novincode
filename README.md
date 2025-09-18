@@ -25,10 +25,6 @@ I build clean, performant, and edge-friendly web applications and tools. My work
 
 Explore more of my work: https://github.com/novincode
 
-## How I Work
-- I prefer small, focused PRs with clear descriptions and tests.  
-- I use Tailwind for consistent, utility-first UIs and avoid brittle global CSS.  
-- I treat edge compatibility as a first-class concern: keep code size small, avoid Node-only APIs where possible, and optimize cold starts.  
 
 ## Contact
 - 🌐 Website: https://codeideal.com  
