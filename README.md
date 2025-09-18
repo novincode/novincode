@@ -1,53 +1,34 @@
-# 👋 Hi there, I’m **Shayan** (novincode)
+# Shayan (novincode) — Full-Stack Engineer
 
-Full-Stack Engineer | React · Next.js · TypeScript · Git · Bash · Docker
+I build clean, performant, and edge-friendly web applications and tools. My work emphasizes maintainability, predictable APIs, and fast front-end experiences that scale.
 
----
+## Focus
+- Clean architecture, readable code, and reliable developer ergonomics
+- Edge-first deployments and performance optimizations
+- Automation: testing, CI/CD and reproducible development environments
 
-## 🚀 About Me
+## Core Technologies
+- Frontend: React · Next.js · TypeScript · Tailwind CSS
+- Backend & Data: Drizzle ORM · PostgreSQL · Node.js
+- Automation & Testing: Playwright · Web scraping (headless browsers, resilient crawlers)
+- Infrastructure & Tooling: Docker · Git · Bash · Edge platforms (Vercel/Cloudflare)
+- Workflow: CI/CD (GitHub Actions), containerized local development
 
-I’m passionate about building clean, polished, and maintainable web applications. With a strong foundation in React and Next.js, I strive to deliver user-focused experiences and developer-friendly codebases. I love automation and DevOps workflows, so you’ll often find me writing scripts in Bash or containerizing projects with Docker.
+## Selected Work
+- Lexkit.dev — Rich text editor framework built on Facebook's Lexical. A modular, extensible editor designed for performance and real-world production use. (https://lexkit.dev / https://github.com/novincode/lexkit)
+- Figma Flow Capture GUI — Desktop tool (TypeScript + Rust) for capturing and automating Figma snapshots into developer workflows. (https://github.com/novincode/figma-flow-capture-gui)
+- Flowshot — CLI and library to generate slides from Markdown and automate presentations. (https://github.com/novincode/flowshot)
 
-- 🌱 Currently building and evolving **[Lexkit.dev](https://lexkit.dev)** – a rich text editor framework powered by Facebook’s Lexical.
-- 💬 Ask me about front-end architecture, CI/CD pipelines, or why clean code matters.
-- ⚡ Fun Fact: I believe that a great README is the first chapter of any awesome open-source project.
+Explore more of my repositories: https://github.com/novincode
 
----
+## How I Work
+- I prefer small, focused PRs with clear descriptions and tests.
+- I use Tailwind for consistent, utility-first UIs and avoid brittle global CSS.
+- I treat edge compatibility as a first-class concern: keep code size small, avoid Node-only APIs where possible, and optimize cold starts.
 
-## 🛠️ Top Skills
+## Contact
+- Website: https://codeideal.com  
+- LinkedIn: https://www.linkedin.com/in/shayanpng  
+- Email: ideyenovin@gmail.com
 
-| Front-End                      | Back-End & DevOps         | Tools & Workflows       |
-| ------------------------------ | ------------------------- | ----------------------- |
-| React · Next.js · TypeScript   | Node.js · Express · REST  | Git · Bash · Docker     |
-| HTML5 · CSS3 · Styled-Components | SQL · NoSQL (MongoDB)     | CI/CD (GitHub Actions)  |
-
----
-
-## 🔭 Featured Projects
-
-### 📘 Lexkit.dev  
-Rich text editor framework built on [Lexical](https://github.com/facebook/lexical).  
-— My latest work and proudest achievement. Designed for maximum extensibility and performance.
-
-### 🎨 Figma Flow Capture GUI  
-A desktop application (TypeScript & Rust) that streamlines taking snapshots in Figma into automated workflows.  
-— Integrates seamlessly with your design-to-dev handoff.
-
-### ⚡ Flowshot  
-A CLI tool and library for generating presentation slides directly from markdown.  
-— Automates slide creation so you can focus on content, not formatting.
-
-Find more of my work on my GitHub: [novincode](https://github.com/novincode)
-
----
-
-## 📫 Connect with Me
-
-- 🌐 Website: [codeideal.com](https://codeideal.com)  
-- 💼 LinkedIn: [shayanpng](https://www.linkedin.com/in/shayanpng)  
-- ✉️ Email: hello@codeideal.com
-
----
-
-> “Clean code is good code.”  
-> — Novincode
+If you want a concise developer overview or a project README tailored for one of my repos (Lexkit, Flowshot, etc.), I can produce that next.
