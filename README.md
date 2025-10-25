@@ -1,32 +1,51 @@
-# Shayan (novincode) — Full-Stack Engineer
+# Shayan (novincode)
 
-I build clean, performant, and edge-friendly web applications and tools. My work emphasizes maintainability, predictable APIs, and fast front-end experiences that scale.
+Nobody special. I just write code on the internet.
+Sometimes it works.💀
 
-## Focus
-- Clean architecture, readable code, and reliable developer ergonomics  
-- Edge-first deployments and performance optimizations  
-- Automation: testing, CI/CD and reproducible development environments  
+---
 
-## Core Technologies
-- **Frontend:** React · Next.js · TypeScript · Tailwind CSS  
-- **Backend & Data:** Drizzle ORM · PostgreSQL · Node.js  
-- **Automation & Testing:** Playwright · Web scraping (headless browsers, resilient crawlers)  
-- **Infrastructure & Tooling:** Docker · Git · Bash · Edge platforms (Vercel/Cloudflare)  
-- **Workflow:** CI/CD (GitHub Actions), containerized local development  
+### About me
 
-## Selected Work
-- **Lexkit.dev**  
-  Rich text editor framework built on Facebook's Lexical. A modular, extensible editor designed for performance and real-world production use.  
-  🔗 https://lexkit.dev · https://github.com/novincode/lexkit
+* Not senior. Not junior. Just lost.
+* I break things until they behave.
+* Building open source because why not.
+* Here for good vibes, real work, no corporate bullshit.
 
-- **Flowshot**  
-  CLI and library to generate slides from Markdown and automate presentations.  
-  🔗 https://github.com/novincode/flowshot
+---
 
-Explore more of my work: https://github.com/novincode
+### Things I mess with
 
+JavaScript, TypeScript, Node.js, React, Next.js, random side projects , accidental bugs.
 
-## Contact
-- 🌐 Website: https://codeideal.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/shayanpng  
-- ✉️ Email: ideyenovin@gmail.com
+---
+
+### Projects that suck less
+
+* **LexKit** – A headless rich text editor I probably over-engineered
+  [https://lexkit.dev](https://lexkit.dev)
+* **Flowshot** – Turns Markdown into slides because typing is easier than designing
+  [https://github.com/novincode/flowshot](https://github.com/novincode/flowshot)
+
+---
+
+### Current status
+
+* Solo building
+* Learning out loud
+* Accepting chaos
+
+---
+
+### Support
+
+⭐ Stars keep this repo alive
+☕ Coffee donations prevent me from changing career to singing (no one wants that)
+
+---
+
+### Contact
+
+Website: [https://codeideal.com](https://codeideal.com)
+Email: [ideyenovin@gmail.com](mailto:ideyenovin@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/shayanpng](https://www.linkedin.com/in/shayanpng)
