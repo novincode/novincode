@@ -48,4 +48,3 @@ JavaScript, TypeScript, Node.js, React, Next.js, random side projects , accident
 
 Website: [https://codeideal.com](https://codeideal.com)
 Email: [ideyenovin@gmail.com](mailto:ideyenovin@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/shayanpng](https://www.linkedin.com/in/shayanpng)
