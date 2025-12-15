@@ -30,7 +30,7 @@ JavaScript, TypeScript, Node.js, React, Next.js, Python, random side projects , 
   [https://github.com/novincode/rendernames](https://github.com/novincode/rendernames)
 * **LipKit** – A Blender Addon to have Auto Lip Sync for 2D & 3D
   [https://github.com/novincode/lipkit](https://github.com/novincode/lipkit)
-* **Flowshot** – Turns Markdown into slides because typing is easier than designing
+* **Flowshot** – A Figma Plugin for exporting prototypes
   [https://github.com/novincode/flowshot](https://github.com/novincode/flowshot)
 ---
 
