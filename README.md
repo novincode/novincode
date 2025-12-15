@@ -16,7 +16,7 @@ Sometimes it works.💀
 
 ### Things I mess with
 
-JavaScript, TypeScript, Node.js, React, Next.js, random side projects , accidental bugs.
+JavaScript, TypeScript, Node.js, React, Next.js, Python, random side projects , accidental bugs.
 
 ---
 
