@@ -24,9 +24,14 @@ JavaScript, TypeScript, Node.js, React, Next.js, Python, random side projects , 
 
 * **LexKit** – A headless rich text editor I probably over-engineered
   [https://lexkit.dev](https://lexkit.dev)
+* **OpenFields** – Wordpress Plugin for Custom Fields (Just like ACF but Open Source)
+  [https://openfields.codeideal.com](https://openfields.codeideal.com)
+* **RenderNames** – A Blender Addon for having more control over Render Output Paths 
+  [https://github.com/novincode/rendernames](https://github.com/novincode/rendernames)
+* **LipKit** – A Blender Addon to have Auto Lip Sync for 2D & 3D
+  [https://github.com/novincode/lipkit](https://github.com/novincode/lipkit)
 * **Flowshot** – Turns Markdown into slides because typing is easier than designing
   [https://github.com/novincode/flowshot](https://github.com/novincode/flowshot)
-
 ---
 
 ### Current status
