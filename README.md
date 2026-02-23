@@ -20,12 +20,14 @@ JavaScript, TypeScript, Node.js, React, Next.js, Python, random side projects , 
 
 ---
 
-### Projects that suck less
+### Projects 
 
 * **LexKit** – A headless rich text editor I probably over-engineered
   [https://lexkit.dev](https://lexkit.dev)
 * **OpenFields** – Wordpress Plugin for Custom Fields (Just like ACF but Open Source)
   [https://openfields.codeideal.com](https://openfields.codeideal.com)
+* **MotionKit** - The Motion Studio inside Figma
+  [https://motionkit.codeideal.com](https://motionkit.codeideal.com)
 * **RenderNames** – A Blender Addon for having more control over Render Output Paths 
   [https://github.com/novincode/rendernames](https://github.com/novincode/rendernames)
 * **LipKit** – A Blender Addon to have Auto Lip Sync for 2D & 3D
@@ -44,7 +46,7 @@ JavaScript, TypeScript, Node.js, React, Next.js, Python, random side projects , 
 
 ### Support
 
-⭐ Stars keep this repo alive
+⭐ Stars keep these missions alive
 ☕ Coffee donations prevent me from changing career to singing (no one wants that)
 
 ---
